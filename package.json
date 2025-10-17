@@ -1,0 +1,16 @@
+{
+  "name": "readsoon-web-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation project with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
